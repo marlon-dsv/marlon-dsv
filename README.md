@@ -114,12 +114,9 @@ Projeto desenvolvido em **C++** para simular um sistema de avaliação de bolsas
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🐍 Contribuições
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marlon-dsv&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-dsv&layout=compact&theme=tokyonight" />
-</p>
+![Snake animation](https://github.com/marlon-dsv/marlon-dsv/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
