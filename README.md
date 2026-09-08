@@ -69,17 +69,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software, e estou sempre busc
 ### 📊 Sistema de Notas Básico em C++
 
 Projeto acadêmico desenvolvido em **C++** para trabalhar conceitos fundamentais de programação através de um sistema de cálculo e análise de notas.
-
-**Conceitos praticados:**
-
-- Estruturas condicionais
-- Estruturas de repetição
-- Vetores
-- Funções
-- Cálculo de médias
-- Entrada e processamento de dados
-- Resolução de problemas
-
 🔗 [Ver projeto no GitHub](https://github.com/marlon-dsv/sistema-de-notas-basico-em-cpp)
 
 ---
@@ -87,17 +76,6 @@ Projeto acadêmico desenvolvido em **C++** para trabalhar conceitos fundamentais
 ### 🎓 Sistema de Bolsa Universitária
 
 Projeto desenvolvido em **C++** para simular um sistema de avaliação de bolsas universitárias utilizando diferentes critérios acadêmicos e socioeconômicos.
-
-**Conceitos praticados:**
-
-- Estruturas condicionais
-- Regras de negócio
-- Validação de dados
-- Cálculos matemáticos
-- Análise de critérios
-- Processamento de informações
-- Resolução de problemas
-
 🔗 [Ver projeto no GitHub](https://github.com/marlon-dsv/sistema-de-bolsa-universitaria)
 
 ---
@@ -116,11 +94,14 @@ Projeto desenvolvido em **C++** para simular um sistema de avaliação de bolsas
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="./profile/stats.svg" />
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
+## 🐍 Minhas contribuições
+
 <p align="center">
-  <img src="./profile/top-langs.svg" />
+  <img src="./profile/github-snake.gif" alt="Snake animation" />
 </p>
 
 ## 🚀 Filosofia
