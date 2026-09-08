@@ -122,7 +122,6 @@ Projeto desenvolvido em **C++** para simular um sistema de avaliação de bolsas
 <p align="center">
   <img src="./profile/top-langs.svg" />
 </p>
----
 
 ## 🚀 Filosofia
 
