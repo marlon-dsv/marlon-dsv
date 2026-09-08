@@ -64,7 +64,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, e estou sempre busc
 
 ---
 
-## 🚀 Projetos
+## 🚀 Últimos Projetos
 
 ### 📊 Sistema de Notas Básico em C++
 
