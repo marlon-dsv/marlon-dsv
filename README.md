@@ -116,18 +116,14 @@ Projeto desenvolvido em **C++** para simular um sistema de avaliação de bolsas
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=marlon-dsv&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-dsv&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=marlon-dsv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-dsv&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
 
 ---
 
