@@ -114,10 +114,6 @@ Projeto desenvolvido em **C++** para simular um sistema de avaliação de bolsas
 
 ---
 
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/marlon-dsv/marlon-dsv/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🚀 Filosofia
