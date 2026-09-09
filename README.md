@@ -66,10 +66,10 @@ Sou apaixonado por tecnologia e desenvolvimento de software, e estou sempre busc
 
 ## 🚀 Últimos Projetos
 
-### 📊 Sistema de Notas Básico em C++
+### 📊 Jogo da Velha
 
-Projeto acadêmico desenvolvido em **C++** para trabalhar conceitos fundamentais de programação através de um sistema de cálculo e análise de notas.
-🔗 [Ver projeto no GitHub](https://github.com/marlon-dsv/sistema-de-notas-basico-em-cpp)
+Projeto acadêmico desenvolvido em **C++** para aplicar conceitos de lógica de programação, estruturas condicionais e manipulação de matrizes.
+🔗 [Ver projeto no GitHub](https://github.com/marlon-dsv/jogo-da-velha.cpp)
 
 ---
 
