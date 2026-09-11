@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Marlon
+# Olá 👋, sou o Marlon
 
 **Estudante de Ciência da Computação 2/10**  
 Brasil
