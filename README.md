@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Marlon
 
-🚀 **Estudante de Ciência da Computação 2/10**  
+**Estudante de Ciência da Computação 2/10**  
 Brasil
 
 Atualmente estou cursando **Ciência da Computação**, construindo uma base sólida em **programação, algoritmos e desenvolvimento de software**.
