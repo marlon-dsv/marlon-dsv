@@ -66,10 +66,10 @@ Sou apaixonado por tecnologia e desenvolvimento de software, e estou sempre busc
 
 ## 🚀 Últimos Projetos
 
-### 📊 Jogo da Velha
+### 📊 Jogo BOMBERMAN 
 
-Projeto acadêmico desenvolvido em **C++** para aplicar conceitos de lógica de programação, estruturas condicionais e manipulação de matrizes.
-🔗 [Ver projeto no GitHub](https://github.com/marlon-dsv/jogo-da-velha.cpp)
+Projeto acadêmico desenvolvido em **C++** para aplicar conceitos de AP2 - EM FASE DE TESTES 
+🔗[Ver andamento do projeto no GitHub](https://github.com/marlon-dsv/game-bomberman)
 
 ---
 
