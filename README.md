@@ -66,7 +66,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, e estou sempre busc
 
 ## 🚀 Últimos Projetos
 
-### 📊 Jogo BOMBERMAN 
+### 📊 Jogo (terminal .exe) BOMBERMAN 
 
 Projeto acadêmico desenvolvido em **C++** para aplicar conceitos de AP2 - EM FASE DE TESTES 
 🔗[Ver andamento do projeto no GitHub](https://github.com/marlon-dsv/game-bomberman)
